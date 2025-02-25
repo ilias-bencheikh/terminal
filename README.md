@@ -1,5 +1,4 @@
-# FSH Sifaks Ilias Rayan
-
+# Terminal
 ### Fonctionnalités principales
 
 1. **Commandes de base**
@@ -123,6 +122,8 @@ Ce projet a été réalisé par les auteurs suivants, étudiants en informatique
 - **Belhassen Rayan** - 22215583 - @belhasse
 - **Bencheikh Ilias** - 22202353 - @bencheik
 - **Lounici Sifaks** - 22214651 - @lounici
+
+Ce dépot est une importation de https://moule.informatique.u-paris.fr/belhasse/terminal
 
 Le fichier `AUTHORS.md` contient une description détaillée des contributions.
 
